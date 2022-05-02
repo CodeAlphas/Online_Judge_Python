@@ -1,5 +1,5 @@
 # Online_Judge
-백준 문제풀이
+백준 문제풀이(Python)
 ## Unrated
 
 ## Bronze V
