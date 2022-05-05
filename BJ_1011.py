@@ -24,7 +24,7 @@ for test_case in range(1, t+1):
             n += 1
         
     if check % 2 == 0:
-        print(2 * (n-1))
+        print(2 * (n - 1))
     else:
         print(2 * n - 1)
 
