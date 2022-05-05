@@ -1,6 +1,6 @@
 """
- 1913번: 달팽이
- Problem Source: https://www.acmicpc.net/problem/1913
+ 1934번: 최소공배수
+ Problem Source: https://www.acmicpc.net/problem/1934
  Version: Python 3.10.4
 
  Created by CodeAlphas on 2022/04/20.
