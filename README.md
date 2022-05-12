@@ -113,6 +113,7 @@
 ## Silver III
 - [피보나치 함수 1003번](BOJ/lv2_3_Silver3/BJ_1003.py)
 - [소수 구하기 1929번](BOJ/lv2_3_Silver3/BJ_1929.py)
+- [통계학 2108번](BOJ/lv2_3_Silver3/BJ_2108.py)
 - [계단 오르기 2579번](BOJ/lv2_3_Silver3/BJ_2579.py)
 - [동전 O 11047번](BOJ/lv2_3_Silver3/BJ_11047.py)
 - [구간 합 구하기 4 11659번](BOJ/lv2_3_Silver3/BJ_11659.py)
