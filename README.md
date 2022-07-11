@@ -1,5 +1,5 @@
 # Online_Judge
-백준, 프로그래머스 문제풀이(Python)
+백준 문제풀이(Python)
 ## Bronze V
 - [A+B 1000번](BOJ/lv1_1_Bronze5/BJ_1000.py) 
 - [A-B 1001번](BOJ/lv1_1_Bronze5/BJ_1001.py)
